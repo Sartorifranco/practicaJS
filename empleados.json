@@ -1,0 +1,28 @@
+{
+    "empleados": [
+        {
+            "id": 1,
+            "nombre": "Juan",
+            "apellidos": "Pérez",
+            "edad": 25
+        },
+        {
+            "id": 2,
+            "nombre": "Franco",
+            "apellidos": "Sartori",
+            "edad": 29
+        },
+        {
+            "id": 3,
+            "nombre": "Candela",
+            "apellidos": "Gastardelli",
+            "edad": 25
+        },
+        {
+            "id": 4,
+            "nombre": "Artemio",
+            "apellidos": "Sartori",
+            "edad": 1
+        }
+    ]
+}

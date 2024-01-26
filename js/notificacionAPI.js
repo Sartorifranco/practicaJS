@@ -1,4 +1,4 @@
-const boton = document.querySelector('#boton')
+/*const boton = document.querySelector('#boton')
 
 boton.addEventListener('click', () => {
     Notification.requestPermission()
@@ -6,8 +6,8 @@ boton.addEventListener('click', () => {
 });
 
 if(Notification.permission == 'granted'){
-    new Notification('Notificacion de Amor',{
+    new Notification('Notificacion de Franco!',{
         icon: 'img/notificacionlogo.png',
-        body: 'Candela Te Amo'
+        body: 'Hola Usuario'
     })
-}
+}*/
